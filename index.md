@@ -6,7 +6,7 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 			embeddedservice_bootstrap.settings.displayHelpButton = 'Start Chatting'
 			embeddedservice_bootstrap.settings.externalScripts = ['https://ferdinand-lee.github.io/MIAW/script']
-			embeddedservice_bootstrap.settings.externalStyles = ['https://ferdinand-lee.github.io/MIAW/style]
+			embeddedservice_bootstrap.settings.externalStyles = ['https://ferdinand-lee.github.io/MIAW/style']
 			embeddedservice_bootstrap.init(
 				'00DVG000000Lsa5',
 				'Customer_Experience_Live_Message',
